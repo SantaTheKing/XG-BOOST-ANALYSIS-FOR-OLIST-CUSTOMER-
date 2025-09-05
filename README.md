@@ -120,6 +120,7 @@ pip install "numpy<2.0" "pmdarima==2.0.4"
 
 ### Phase 4: Business Intelligence Dashboard
 - **Tool**: Power BI
+- **Dashboard Link**: [View Interactive Dashboard](https://autonomaeduco-my.sharepoint.com/:u:/g/personal/alejandro_santac_autonoma_edu_co/EYXTeaah2IxBsXJwtpPNdFMBJiSI_RGRatPlTebU6B1vSA?e=H4WgcD)
 - **Components**:
   - Sales performance KPIs
   - Interactive geographic visualizations
